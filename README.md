@@ -4,7 +4,7 @@
 
   A fully responsive personal portfolio website, Responsive for all devices, built using React, CSS, Bootstrap and JavaScript. The site displays my web presence, story, work experience, education, projects, achievements, and contact information
 
-  <a href="https://"><strong>➥ Live Demo</strong></a>
+  <a href="https://george-portfolio-site.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![George Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![George Desktop Demo](./src/assets/Screenshot.png "Desktop Demo")
 
 ### Prerequisites
 
