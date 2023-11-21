@@ -2,6 +2,7 @@ import crop from '../assets/crop.png';
 import rainbow from '../assets/rainbow.png';
 import crop2 from '../assets/crop2.png';
 import github from '../assets/github.png';
+import todo from '../assets/todo.png';
 
 
 const Projects = () => {
@@ -43,6 +44,14 @@ const Projects = () => {
                         <h5 className="card-title text-success font-monospace">My Little rainbow</h5>
                         <p className="card-text fw-lighter text-white">Making a rainbow with HTML div elements using HTML elements, CSS styling, and CSS selectors.</p>
                         <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a>
+                    </div>
+                </div>
+                <div className="card col-md-6">
+                    <img src={todo} className="card-img-top img-fluid pt-2" alt="..." />
+                    <div className="card-body">
+                        <h5 className="card-title text-success font-monospace">My Todo List</h5>
+                        <p className="card-text fw-lighter text-white">A simple to-do list application that uses JavaScript to manipulate the DOM..</p>
+                        <a href="https://ohthebrave.github.io/phase-1-tasklister-mini-project/" className="btn btn-outline-secondary">View Project</a>
                     </div>
                 </div>
             </div>
