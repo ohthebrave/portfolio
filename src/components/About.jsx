@@ -34,6 +34,7 @@ function About() {
             <li className='mb-3'>Certificate in Software Engineering, Moringa School.</li>
             <li>Bachelor's degree in Land Resource and Management(Remote Sensing and GIS), JKUAT.</li>
           </ul>
+          <a href="https://docs.google.com/document/d/19X1XKtDmnGPSRIoN9aP4Y0RMRpK2nXi5BlMaryjWQ9Y/edit?usp=sharing" className="btn btn-outline-secondary mt-4 mx-5">My Resume</a>
         </div>
         <div className='col-md-6'>
           <img src={cap} alt="graduation-cap" />
