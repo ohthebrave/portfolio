@@ -60,7 +60,7 @@ body {
     height: 100%;
     width: 100%;
     margin-top: 7px;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 .project {

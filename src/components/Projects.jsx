@@ -1,6 +1,7 @@
 import crop from '../assets/crop.png';
 import rainbow from '../assets/rainbow.png';
 import crop2 from '../assets/crop2.png';
+import github from '../assets/github.png';
 
 
 const Projects = () => {
@@ -29,11 +30,11 @@ const Projects = () => {
                 </div>
 
                 <div className="card col-md-6">
-                    <img src={rainbow} className="card-img-top img-fluid pt-2" alt="..." />
+                    <img src={github} className="card-img-top img-fluid pt-2" alt="..." />
                     <div className="card-body">
-                        <h5 className="card-title text-success font-monospace">My Little rainbow</h5>
-                        <p className="card-text fw-lighter text-white">Making a rainbow with HTML div elements using HTML elements, CSS styling, and CSS selectors.</p>
-                        <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a>
+                        <h5 className="card-title text-success font-monospace">GitHub Search</h5>
+                        <p className="card-text fw-lighter text-white">You can search for users matching a certain name. For example, if we wanted to find all users named 'Octocat'.</p>
+                        <a href="https://ohthebrave.github.io/phase-1-github-search-app/" className="btn btn-outline-secondary">View Project</a>
                     </div>
                 </div>
                 <div className="card col-md-6">
