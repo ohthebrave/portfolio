@@ -53,22 +53,40 @@ body {
     border: 0.01px solid rgb(73, 72, 72);
     margin: 10px;
     background-color: #000;
+    width: 45%;
+}
+
+.card img {
+    height: 100%;
+    width: 100%;
+    margin-top: 7px;
+    object-fit: contain;
 }
 
 .project {
     justify-content: center;
     margin-left: 2px;
+    width: 100%;
 }
+
 
 @media (max-width: 990px) {
     .sidebar{
         background-color: rgba(255, 255, 255, 0.12);
         backdrop-filter: blur(15px);
     }
+
+    .card {
+        border: 0.01px solid rgb(73, 72, 72);
+        margin: 10px;
+        background-color: #000;
+        border: 2px solid rgb(225, 255, 0);
+        width: 80%;
+    }
 }
 @media (min-width: 768px) {
     .project {
         justify-content: center;
-        margin-left: 70px;
+        margin-left: 30px;
     }
 }
