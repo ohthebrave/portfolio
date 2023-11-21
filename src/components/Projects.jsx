@@ -44,46 +44,6 @@ const Projects = () => {
                         <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a>
                     </div>
                 </div>
-                {/* <div className="card col-md-6">
-                    <img src={rainbow} className="card-img-top img-fluid pt-2" alt="..." />
-                    <div className="card-body">
-                        <h5 className="card-title">My Little rainbow</h5>
-                        <p className="card-text">Making a rainbow with HTML div elements using HTML elements, CSS styling, and CSS selectors.</p>
-                        <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a>
-                    </div>
-                </div>
-                <div className="card col-md-6">
-                    <img src={rainbow} className="card-img-top img-fluid pt-2" alt="..." />
-                    <div className="card-body">
-                        <h5 className="card-title">My Little rainbow</h5>
-                        <p className="card-text">Making a rainbow with HTML div elements using HTML elements, CSS styling, and CSS selectors.</p>
-                        <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a>
-                    </div>
-                </div>
-                <div className="card col-md-6">
-                    <img src={rainbow} className="card-img-top img-fluid pt-2" alt="..." />
-                    <div className="card-body">
-                        <h5 className="card-title">My Little rainbow</h5>
-                        <p className="card-text">Making a rainbow with HTML div elements using HTML elements, CSS styling, and CSS selectors.</p>
-                        <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a>
-                    </div>
-                </div>
-                <div className="card col-md-6">
-                    <img src={rainbow} className="card-img-top img-fluid pt-2" alt="..." />
-                    <div className="card-body">
-                        <h5 className="card-title">My Little rainbow</h5>
-                        <p className="card-text">Making a rainbow with HTML div elements using HTML elements, CSS styling, and CSS selectors.</p>
-                        <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a>
-                    </div>
-                </div>
-                <div className="card col-md-6">
-                    <img src={rainbow} className="card-img-top img-fluid pt-2" alt="..." />
-                    <div className="card-body">
-                        <h5 className="card-title">My Little rainbow</h5>
-                        <p className="card-text">Making a rainbow with HTML div elements using HTML elements, CSS styling, and CSS selectors.</p>
-                        <a href="https://github.com/ohthebrave/phase-0-css-rainbow-lab" className="btn btn-outline-secondary">View Project</a> */}
-                    {/* </div> */}
-                {/* </div> */}
             </div>
         </div>
      );
