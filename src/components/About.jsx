@@ -26,6 +26,7 @@ function About() {
           helping different product teams to build enjoyable user experiences. 
           I also love volunteering in open-source projects for social good.
           </p>
+          <a href="https://docs.google.com/document/d/19X1XKtDmnGPSRIoN9aP4Y0RMRpK2nXi5BlMaryjWQ9Y/edit?usp=sharing" className="btn btn-outline-secondary mt-4">My Resume</a>
         </div>
         <div className='col-md-6 text-white pt-5'>
           <h3 className='pt-lg-5'>Qualifications</h3>
