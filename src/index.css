@@ -49,10 +49,26 @@ body {
     object-fit: cover;
 }
 
+.card {
+    border: 0.01px solid rgb(73, 72, 72);
+    margin: 10px;
+    background-color: #000;
+}
+
+.project {
+    justify-content: center;
+    margin-left: 2px;
+}
 
 @media (max-width: 990px) {
     .sidebar{
         background-color: rgba(255, 255, 255, 0.12);
         backdrop-filter: blur(15px);
+    }
+}
+@media (min-width: 768px) {
+    .project {
+        justify-content: center;
+        margin-left: 70px;
     }
 }
