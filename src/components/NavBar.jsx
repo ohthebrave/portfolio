@@ -1,27 +1,9 @@
-import {  signal, useSignalEffect } from '@preact/signals-react'
+
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const scrolled = signal(false);
 
 function NavBar() {
-   
-    useSignalEffect(() => {
-        const onScroll = () => {
-          if (window.scrollY > 50) {
-            scrolled(true);
-            console.log('hey')
-          } else {
-            scrolled(false);
-          }
-        };
-    
-        window.addEventListener('scroll', onScroll);
-    
-        return () => {
-          window.removeEventListener('scroll', onScroll);
-        };
-      }, []);
 
   return (
     <div className=''>
